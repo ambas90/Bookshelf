@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/MichalRzeszot/goit-group-project-bookshelf",
+  "homepage": "https://github.com/ambas90/Bookshelf",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-group-project-bookshelf/"
+    "build": "parcel build src/*.html --public-url /Bookshelf/"
   },
   "repository": {
     "type": "git",
